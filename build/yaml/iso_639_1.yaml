@@ -1,0 +1,1288 @@
+aa:
+  639-1: aa
+  639-2: aar
+  language-name:
+    native: afaraf
+    en: afar
+    fr: afar
+ab:
+  639-1: ab
+  639-2: abk
+  language-name:
+    native: аҧсуа бызшәа, аҧсшәа
+    en: abkhaz
+    fr: abkhaze
+ae:
+  639-1: ae
+  639-2: ave
+  language-name:
+    native: avesta
+    en: avestan
+    fr: avestique
+af:
+  639-1: af
+  639-2: afr
+  language-name:
+    native: afrikaans
+    en: afrikaans
+    fr: afrikaans
+ak:
+  639-1: ak
+  639-2: aka
+  language-name:
+    native: akan
+    en: akan
+    fr: akan
+am:
+  639-1: am
+  639-2: amh
+  language-name:
+    native: አማርኛ
+    en: amharic
+    fr: amharique
+an:
+  639-1: an
+  639-2: arg
+  language-name:
+    native: aragonés
+    en: aragonese
+    fr: aragonais
+ar:
+  639-1: ar
+  639-2: ara
+  language-name:
+    native: العربية
+    en: arabic
+    fr: arabe
+as:
+  639-1: as
+  639-2: asm
+  language-name:
+    native: অসমীয়া
+    en: assamese
+    fr: assamais
+av:
+  639-1: av
+  639-2: ava
+  language-name:
+    native: авар мацӏ, магӏарул мацӏ
+    en: avaric
+    fr: avar
+ay:
+  639-1: ay
+  639-2: aym
+  language-name:
+    native: aymar aru
+    en: aymara
+    fr: aymara
+az:
+  639-1: az
+  639-2: aze
+  language-name:
+    native: azərbaycan dili
+    en: azerbaijani
+    fr: azéri
+ba:
+  639-1: ba
+  639-2: bak
+  language-name:
+    native: башҡорт теле
+    en: bashkir
+    fr: bachkir
+be:
+  639-1: be
+  639-2: bel
+  language-name:
+    native: беларуская мова
+    en: belarusian
+    fr: biélorusse
+bg:
+  639-1: bg
+  639-2: bul
+  language-name:
+    native: български език
+    en: bulgarian
+    fr: bulgare
+bh:
+  639-1: bh
+  639-2: bih
+  language-name:
+    native: भोजपुरी
+    en: bihari
+    fr: langues biharis
+bi:
+  639-1: bi
+  639-2: bis
+  language-name:
+    native: bislama
+    en: bislama
+    fr: bichlamar
+bm:
+  639-1: bm
+  639-2: bam
+  language-name:
+    native: bamanankan
+    en: bambara
+    fr: bambara
+bn:
+  639-1: bn
+  639-2: ben
+  language-name:
+    native: বাংলা
+    en: bengali, bangla
+    fr: bengali
+bo:
+  639-1: bo
+  639-2: bod
+  language-name:
+    native: བོད་ཡིག
+    en: tibetan standard
+    fr: tibétain
+br:
+  639-1: br
+  639-2: bre
+  language-name:
+    native: brezhoneg
+    en: breton
+    fr: breton
+bs:
+  639-1: bs
+  639-2: bos
+  language-name:
+    native: bosanski jezik
+    en: bosnian
+    fr: bosniaque
+ca:
+  639-1: ca
+  639-2: cat
+  language-name:
+    native: català
+    en: catalan
+    fr: catalan
+ce:
+  639-1: ce
+  639-2: che
+  language-name:
+    native: нохчийн мотт
+    en: chechen
+    fr: tchétchène
+ch:
+  639-1: ch
+  639-2: cha
+  language-name:
+    native: chamoru
+    en: chamorro
+    fr: chamorro
+co:
+  639-1: co
+  639-2: cos
+  language-name:
+    native: corsu, lingua corsa
+    en: corsican
+    fr: corse
+cr:
+  639-1: cr
+  639-2: cre
+  language-name:
+    native: ᓀᐦᐃᔭᐍᐏᐣ
+    en: cree
+    fr: cree
+cs:
+  639-1: cs
+  639-2: ces
+  language-name:
+    native: čeština, český jazyk
+    en: czech
+    fr: tchèque
+cu:
+  639-1: cu
+  639-2: chu
+  language-name:
+    native: ѩзыкъ словѣньскъ
+    en: old church slavonic
+    fr: slavon d'église
+cv:
+  639-1: cv
+  639-2: chv
+  language-name:
+    native: чӑваш чӗлхи
+    en: chuvash
+    fr: tchouvache
+cy:
+  639-1: cy
+  639-2: cym
+  language-name:
+    native: cymraeg
+    en: welsh
+    fr: gallois
+da:
+  639-1: da
+  639-2: dan
+  language-name:
+    native: dansk
+    en: danish
+    fr: danois
+de:
+  639-1: de
+  639-2: deu
+  language-name:
+    native: deutsch
+    en: german
+    fr: allemand
+dv:
+  639-1: dv
+  639-2: div
+  language-name:
+    native: dhivehi
+    en: divehi, dhivehi, maldivian
+    fr: maldivien
+dz:
+  639-1: dz
+  639-2: dzo
+  language-name:
+    native: རྫོང་ཁ
+    en: dzongkha
+    fr: dzongkha
+ee:
+  639-1: ee
+  639-2: ewe
+  language-name:
+    native: eʋegbe
+    en: ewe
+    fr: éwé
+el:
+  639-1: el
+  639-2: ell
+  language-name:
+    native: ελληνικά
+    en: greek (modern)
+    fr: grec moderne
+en:
+  639-1: en
+  639-2: eng
+  language-name:
+    native: english
+    en: english
+    fr: anglais
+eo:
+  639-1: eo
+  639-2: epo
+  language-name:
+    native: esperanto
+    en: esperanto
+    fr: espéranto
+es:
+  639-1: es
+  639-2: spa
+  language-name:
+    native: español
+    en: spanish
+    fr: espagnol
+et:
+  639-1: et
+  639-2: est
+  language-name:
+    native: eesti
+    en: estonian
+    fr: estonien
+eu:
+  639-1: eu
+  639-2: eus
+  language-name:
+    native: euskara
+    en: basque
+    fr: basque
+fa:
+  639-1: fa
+  639-2: fas
+  language-name:
+    native: فارسی
+    en: persian (farsi)
+    fr: persan
+ff:
+  639-1: ff
+  639-2: ful
+  language-name:
+    native: fulfulde, pulaar, pular
+    en: fula, fulah, pulaar, pular
+    fr: peul
+fi:
+  639-1: fi
+  639-2: fin
+  language-name:
+    native: suomi, suomen kieli
+    en: finnish
+    fr: finnois
+fj:
+  639-1: fj
+  639-2: fij
+  language-name:
+    native: vosa vakaviti
+    en: fijian
+    fr: fidjien
+fo:
+  639-1: fo
+  639-2: fao
+  language-name:
+    native: føroyskt
+    en: faroese
+    fr: féroïen
+fr:
+  639-1: fr
+  639-2: fra
+  language-name:
+    native: français
+    en: french
+    fr: français
+fy:
+  639-1: fy
+  639-2: fry
+  language-name:
+    native: frysk
+    en: western frisian
+    fr: frison occidental
+ga:
+  639-1: ga
+  639-2: gle
+  language-name:
+    native: gaeilge
+    en: irish
+    fr: irlandais
+gd:
+  639-1: gd
+  639-2: gla
+  language-name:
+    native: gàidhlig
+    en: scottish gaelic, gaelic
+    fr: gaélique
+gl:
+  639-1: gl
+  639-2: glg
+  language-name:
+    native: galego
+    en: galician
+    fr: galicien
+gn:
+  639-1: gn
+  639-2: grn
+  language-name:
+    native: avañe'ẽ
+    en: guaraní
+    fr: guarani
+gu:
+  639-1: gu
+  639-2: guj
+  language-name:
+    native: ગુજરાતી
+    en: gujarati
+    fr: goudjrati
+gv:
+  639-1: gv
+  639-2: glv
+  language-name:
+    native: gaelg, gailck
+    en: manx
+    fr: manx
+ha:
+  639-1: ha
+  639-2: hau
+  language-name:
+    native: هَوُسَ
+    en: hausa
+    fr: haoussa
+he:
+  639-1: he
+  639-2: heb
+  language-name:
+    native: עברית
+    en: hebrew (modern)
+    fr: hébreu
+hi:
+  639-1: hi
+  639-2: hin
+  language-name:
+    native: हिन्दी, हिंदी
+    en: hindi
+    fr: hindi
+ho:
+  639-1: ho
+  639-2: hmo
+  language-name:
+    native: hiri motu
+    en: hiri motu
+    fr: hiri motu
+hr:
+  639-1: hr
+  639-2: hrv
+  language-name:
+    native: hrvatski jezik
+    en: croatian
+    fr: croate
+ht:
+  639-1: ht
+  639-2: hat
+  language-name:
+    native: kreyòl ayisyen
+    en: haitian, haitian creole
+    fr: haïtien
+hu:
+  639-1: hu
+  639-2: hun
+  language-name:
+    native: magyar
+    en: hungarian
+    fr: hongrois
+hy:
+  639-1: hy
+  639-2: hye
+  language-name:
+    native: հայերեն
+    en: armenian
+    fr: arménien
+hz:
+  639-1: hz
+  639-2: her
+  language-name:
+    native: otjiherero
+    en: herero
+    fr: herero
+ia:
+  639-1: ia
+  639-2: ina
+  language-name:
+    native: interlingua
+    en: interlingua
+    fr: interlingua
+id:
+  639-1: id
+  639-2: ind
+  language-name:
+    native: bahasa indonesia
+    en: indonesian
+    fr: indonésien
+ie:
+  639-1: ie
+  639-2: ile
+  language-name:
+    native: interlingue
+    en: interlingue
+    fr: interlingue
+ig:
+  639-1: ig
+  639-2: ibo
+  language-name:
+    native: asụsụ igbo
+    en: igbo
+    fr: igbo
+ii:
+  639-1: ii
+  639-2: iii
+  language-name:
+    native: ꆈꌠ꒿ nuosuhxop
+    en: nuosu
+    fr: yi de sichuan
+ik:
+  639-1: ik
+  639-2: ipk
+  language-name:
+    native: iñupiaq, iñupiatun
+    en: inupiaq
+    fr: inupiaq
+io:
+  639-1: io
+  639-2: ido
+  language-name:
+    native: ido
+    en: ido
+    fr: ido
+is:
+  639-1: is
+  639-2: isl
+  language-name:
+    native: íslenska
+    en: icelandic
+    fr: islandais
+it:
+  639-1: it
+  639-2: ita
+  language-name:
+    native: italiano
+    en: italian
+    fr: italien
+iu:
+  639-1: iu
+  639-2: iku
+  language-name:
+    native: ᐃᓄᒃᑎᑐᑦ
+    en: inuktitut
+    fr: inuktitut
+ja:
+  639-1: ja
+  639-2: jpn
+  language-name:
+    native: 日本語 (にほんご)
+    en: japanese
+    fr: japonais
+jv:
+  639-1: jv
+  639-2: jav
+  language-name:
+    native: basa jawa
+    en: javanese
+    fr: javanais
+ka:
+  639-1: ka
+  639-2: kat
+  language-name:
+    native: ქართული
+    en: georgian
+    fr: géorgien
+kg:
+  639-1: kg
+  639-2: kon
+  language-name:
+    native: kikongo
+    en: kongo
+    fr: kongo
+ki:
+  639-1: ki
+  639-2: kik
+  language-name:
+    native: gĩkũyũ
+    en: kikuyu, gikuyu
+    fr: kikuyu
+kj:
+  639-1: kj
+  639-2: kua
+  language-name:
+    native: kuanyama
+    en: kwanyama, kuanyama
+    fr: kuanyama
+kk:
+  639-1: kk
+  639-2: kaz
+  language-name:
+    native: қазақ тілі
+    en: kazakh
+    fr: kazakh
+kl:
+  639-1: kl
+  639-2: kal
+  language-name:
+    native: kalaallisut, kalaallit oqaasii
+    en: kalaallisut, greenlandic
+    fr: groenlandais
+km:
+  639-1: km
+  639-2: khm
+  language-name:
+    native: ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ
+    en: khmer
+    fr: khmer
+kn:
+  639-1: kn
+  639-2: kan
+  language-name:
+    native: ಕನ್ನಡ
+    en: kannada
+    fr: kannada
+ko:
+  639-1: ko
+  639-2: kor
+  language-name:
+    native: 한국어
+    en: korean
+    fr: coréen
+kr:
+  639-1: kr
+  639-2: kau
+  language-name:
+    native: kanuri
+    en: kanuri
+    fr: kanouri
+ks:
+  639-1: ks
+  639-2: kas
+  language-name:
+    native: कश्मीरी, كشميري
+    en: kashmiri
+    fr: kashmiri
+ku:
+  639-1: ku
+  639-2: kur
+  language-name:
+    native: كوردی
+    en: kurdish
+    fr: kurde
+kv:
+  639-1: kv
+  639-2: kom
+  language-name:
+    native: коми кыв
+    en: komi
+    fr: kom
+kw:
+  639-1: kw
+  639-2: cor
+  language-name:
+    native: kernewek
+    en: cornish
+    fr: cornique
+ky:
+  639-1: ky
+  639-2: kir
+  language-name:
+    native: кыргызча, кыргыз тили
+    en: kyrgyz
+    fr: kirghiz
+la:
+  639-1: la
+  639-2: lat
+  language-name:
+    native: latine, lingua latina
+    en: latin
+    fr: latin
+lb:
+  639-1: lb
+  639-2: ltz
+  language-name:
+    native: lëtzebuergesch
+    en: luxembourgish, letzeburgesch
+    fr: luxembourgeois
+lg:
+  639-1: lg
+  639-2: lug
+  language-name:
+    native: luganda
+    en: ganda
+    fr: ganda
+li:
+  639-1: li
+  639-2: lim
+  language-name:
+    native: limburgs
+    en: limburgish, limburgan, limburger
+    fr: limbourgeois
+ln:
+  639-1: ln
+  639-2: lin
+  language-name:
+    native: lingála
+    en: lingala
+    fr: lingala
+lo:
+  639-1: lo
+  639-2: lao
+  language-name:
+    native: ພາສາລາວ
+    en: lao
+    fr: lao
+lt:
+  639-1: lt
+  639-2: lit
+  language-name:
+    native: lietuvių kalba
+    en: lithuanian
+    fr: lituanien
+lu:
+  639-1: lu
+  639-2: lub
+  language-name:
+    native: tshiluba
+    en: luba-katanga
+    fr: luba-katanga
+lv:
+  639-1: lv
+  639-2: lav
+  language-name:
+    native: latviešu valoda
+    en: latvian
+    fr: letton
+mg:
+  639-1: mg
+  639-2: mlg
+  language-name:
+    native: fiteny malagasy
+    en: malagasy
+    fr: malgache
+mh:
+  639-1: mh
+  639-2: mah
+  language-name:
+    native: kajin m̧ajeļ
+    en: marshallese
+    fr: marshall
+mi:
+  639-1: mi
+  639-2: mri
+  language-name:
+    native: te reo māori
+    en: māori
+    fr: maori
+mk:
+  639-1: mk
+  639-2: mkd
+  language-name:
+    native: македонски јазик
+    en: macedonian
+    fr: macédonien
+ml:
+  639-1: ml
+  639-2: mal
+  language-name:
+    native: മലയാളം
+    en: malayalam
+    fr: malayalam
+mn:
+  639-1: mn
+  639-2: mon
+  language-name:
+    native: монгол хэл
+    en: mongolian
+    fr: mongol
+mr:
+  639-1: mr
+  639-2: mar
+  language-name:
+    native: मराठी
+    en: marathi (marāṭhī)
+    fr: marathe
+ms:
+  639-1: ms
+  639-2: msa
+  language-name:
+    native: bahasa melayu, بهاس ملايو‎
+    en: malay
+    fr: malais
+mt:
+  639-1: mt
+  639-2: mlt
+  language-name:
+    native: malti
+    en: maltese
+    fr: maltais
+my:
+  639-1: my
+  639-2: mya
+  language-name:
+    native: ဗမာစာ
+    en: burmese
+    fr: birman
+na:
+  639-1: na
+  639-2: nau
+  language-name:
+    native: dorerin naoero
+    en: nauruan
+    fr: nauruan
+nb:
+  639-1: nb
+  639-2: nob
+  language-name:
+    native: norsk bokmål
+    en: norwegian bokmål
+    fr: norvégien bokmål
+nd:
+  639-1: nd
+  639-2: nde
+  language-name:
+    native: isindebele
+    en: northern ndebele
+    fr: ndébélé du nord
+ne:
+  639-1: ne
+  639-2: nep
+  language-name:
+    native: नेपाली
+    en: nepali
+    fr: népalais
+ng:
+  639-1: ng
+  639-2: ndo
+  language-name:
+    native: owambo
+    en: ndonga
+    fr: ndonga
+nl:
+  639-1: nl
+  639-2: nld
+  language-name:
+    native: nederlands, vlaams
+    en: dutch
+    fr: néerlandais
+nn:
+  639-1: nn
+  639-2: nno
+  language-name:
+    native: norsk nynorsk
+    en: norwegian nynorsk
+    fr: norvégien nynorsk
+no:
+  639-1: no
+  639-2: nor
+  language-name:
+    native: norsk
+    en: norwegian
+    fr: norvégien
+nr:
+  639-1: nr
+  639-2: nbl
+  language-name:
+    native: isindebele
+    en: southern ndebele
+    fr: ndébélé du sud
+nv:
+  639-1: nv
+  639-2: nav
+  language-name:
+    native: diné bizaad
+    en: navajo, navaho
+    fr: navaho
+ny:
+  639-1: ny
+  639-2: nya
+  language-name:
+    native: chicheŵa, chinyanja
+    en: chichewa, chewa, nyanja
+    fr: chichewa
+oc:
+  639-1: oc
+  639-2: oci
+  language-name:
+    native: occitan, lenga d'òc
+    en: occitan
+    fr: occitan
+oj:
+  639-1: oj
+  639-2: oji
+  language-name:
+    native: ᐊᓂᔑᓈᐯᒧᐎᓐ
+    en: ojibwe, ojibwa
+    fr: ojibwa
+om:
+  639-1: om
+  639-2: orm
+  language-name:
+    native: afaan oromoo
+    en: oromo
+    fr: galla
+or:
+  639-1: or
+  639-2: ori
+  language-name:
+    native: ଓଡ଼ିଆ
+    en: oriya
+    fr: oriya
+os:
+  639-1: os
+  639-2: oss
+  language-name:
+    native: ирон æвзаг
+    en: ossetian, ossetic
+    fr: ossète
+pa:
+  639-1: pa
+  639-2: pan
+  language-name:
+    native: ਪੰਜਾਬੀ
+    en: (eastern) punjabi
+    fr: pendjabi
+pi:
+  639-1: pi
+  639-2: pli
+  language-name:
+    native: पाऴि
+    en: pāli
+    fr: pali
+pl:
+  639-1: pl
+  639-2: pol
+  language-name:
+    native: język polski, polszczyzna
+    en: polish
+    fr: polonais
+ps:
+  639-1: ps
+  639-2: pus
+  language-name:
+    native: پښتو
+    en: pashto, pushto
+    fr: pachto
+pt:
+  639-1: pt
+  639-2: por
+  language-name:
+    native: português
+    en: portuguese
+    fr: portugais
+qu:
+  639-1: qu
+  639-2: que
+  language-name:
+    native: kichwa
+    en: quechua
+    fr: quechua
+rm:
+  639-1: rm
+  639-2: roh
+  language-name:
+    native: rumantsch grischun
+    en: romansh
+    fr: romanche
+rn:
+  639-1: rn
+  639-2: run
+  language-name:
+    native: ikirundi
+    en: kirundi
+    fr: rundi
+ro:
+  639-1: ro
+  639-2: ron
+  language-name:
+    native: română
+    en: romanian
+    fr: roumain
+ru:
+  639-1: ru
+  639-2: rus
+  language-name:
+    native: русский
+    en: russian
+    fr: russe
+rw:
+  639-1: rw
+  639-2: kin
+  language-name:
+    native: ikinyarwanda
+    en: kinyarwanda
+    fr: rwanda
+sa:
+  639-1: sa
+  639-2: san
+  language-name:
+    native: संस्कृतम्
+    en: sanskrit (saṁskṛta)
+    fr: sanskrit
+sc:
+  639-1: sc
+  639-2: srd
+  language-name:
+    native: sardu
+    en: sardinian
+    fr: sarde
+sd:
+  639-1: sd
+  639-2: snd
+  language-name:
+    native: सिन्धी, سنڌي، سندھی‎
+    en: sindhi
+    fr: sindhi
+se:
+  639-1: se
+  639-2: sme
+  language-name:
+    native: davvisámegiella
+    en: northern sami
+    fr: sami du nord
+sg:
+  639-1: sg
+  639-2: sag
+  language-name:
+    native: yângâ tî sängö
+    en: sango
+    fr: sango
+si:
+  639-1: si
+  639-2: sin
+  language-name:
+    native: සිංහල
+    en: sinhalese
+    fr: singhalais
+sk:
+  639-1: sk
+  639-2: slk
+  language-name:
+    native: slovenčina, slovenský jazyk
+    en: slovak
+    fr: slovaque
+sl:
+  639-1: sl
+  639-2: slv
+  language-name:
+    native: slovenski jezik, slovenščina
+    en: slovene
+    fr: slovène
+sm:
+  639-1: sm
+  639-2: smo
+  language-name:
+    native: gagana fa'a samoa
+    en: samoan
+    fr: samoan
+sn:
+  639-1: sn
+  639-2: sna
+  language-name:
+    native: chishona
+    en: shona
+    fr: shona
+so:
+  639-1: so
+  639-2: som
+  language-name:
+    native: soomaaliga, af soomaali
+    en: somali
+    fr: somali
+sq:
+  639-1: sq
+  639-2: sqi
+  language-name:
+    native: shqip
+    en: albanian
+    fr: albanais
+sr:
+  639-1: sr
+  639-2: srp
+  language-name:
+    native: српски језик
+    en: serbian
+    fr: serbe
+ss:
+  639-1: ss
+  639-2: ssw
+  language-name:
+    native: siswati
+    en: swati
+    fr: swati
+st:
+  639-1: st
+  639-2: sot
+  language-name:
+    native: sesotho
+    en: southern sotho
+    fr: sotho du sud
+su:
+  639-1: su
+  639-2: sun
+  language-name:
+    native: basa sunda
+    en: sundanese
+    fr: soundanais
+sv:
+  639-1: sv
+  639-2: swe
+  language-name:
+    native: svenska
+    en: swedish
+    fr: suédois
+sw:
+  639-1: sw
+  639-2: swa
+  language-name:
+    native: kiswahili
+    en: swahili
+    fr: swahili
+ta:
+  639-1: ta
+  639-2: tam
+  language-name:
+    native: தமிழ்
+    en: tamil
+    fr: tamoul
+te:
+  639-1: te
+  639-2: tel
+  language-name:
+    native: తెలుగు
+    en: telugu
+    fr: télougou
+tg:
+  639-1: tg
+  639-2: tgk
+  language-name:
+    native: تاجیکی
+    en: tajik
+    fr: tadjik
+th:
+  639-1: th
+  639-2: tha
+  language-name:
+    native: ไทย
+    en: thai
+    fr: thaï
+ti:
+  639-1: ti
+  639-2: tir
+  language-name:
+    native: ትግርኛ
+    en: tigrinya
+    fr: tigrigna
+tk:
+  639-1: tk
+  639-2: tuk
+  language-name:
+    native: түркмен
+    en: turkmen
+    fr: turkmène
+tl:
+  639-1: tl
+  639-2: tgl
+  language-name:
+    native: wikang tagalog
+    en: tagalog
+    fr: tagalog
+tn:
+  639-1: tn
+  639-2: tsn
+  language-name:
+    native: setswana
+    en: tswana
+    fr: tswana
+to:
+  639-1: to
+  639-2: ton
+  language-name:
+    native: faka tonga
+    en: tonga (tonga islands)
+    fr: tongan
+tr:
+  639-1: tr
+  639-2: tur
+  language-name:
+    native: türkçe
+    en: turkish
+    fr: turc
+ts:
+  639-1: ts
+  639-2: tso
+  language-name:
+    native: xitsonga
+    en: tsonga
+    fr: tsonga
+tt:
+  639-1: tt
+  639-2: tat
+  language-name:
+    native: татар теле
+    en: tatar
+    fr: tatar
+tw:
+  639-1: tw
+  639-2: twi
+  language-name:
+    native: twi
+    en: twi
+    fr: twi
+ty:
+  639-1: ty
+  639-2: tah
+  language-name:
+    native: reo tahiti
+    en: tahitian
+    fr: tahitien
+ug:
+  639-1: ug
+  639-2: uig
+  language-name:
+    native: ئۇيغۇرچە
+    en: uyghur
+    fr: ouïgour
+uk:
+  639-1: uk
+  639-2: ukr
+  language-name:
+    native: українська
+    en: ukrainian
+    fr: ukrainien
+ur:
+  639-1: ur
+  639-2: urd
+  language-name:
+    native: اردو
+    en: urdu
+    fr: ourdou
+uz:
+  639-1: uz
+  639-2: uzb
+  language-name:
+    native: oʻzbek, ўзбек, أۇزبېك
+    en: uzbek
+    fr: ouszbek
+ve:
+  639-1: ve
+  639-2: ven
+  language-name:
+    native: tshivenḓa
+    en: venda
+    fr: venda
+vi:
+  639-1: vi
+  639-2: vie
+  language-name:
+    native: tiếng việt
+    en: vietnamee
+    fr: vietnamien
+vo:
+  639-1: vo
+  639-2: vol
+  language-name:
+    native: volapük
+    en: volapük
+    fr: volapük
+wa:
+  639-1: wa
+  639-2: wln
+  language-name:
+    native: walon
+    en: walloon
+    fr: wallon
+wo:
+  639-1: wo
+  639-2: wol
+  language-name:
+    native: wollof
+    en: wolof
+    fr: wolof
+xh:
+  639-1: xh
+  639-2: xho
+  language-name:
+    native: isixhosa
+    en: xhosa
+    fr: xhosa
+yi:
+  639-1: yi
+  639-2: yid
+  language-name:
+    native: ייִדיש
+    en: yiddish
+    fr: yiddish
+yo:
+  639-1: yo
+  639-2: yor
+  language-name:
+    native: yorùbá
+    en: yoruba
+    fr: yoruba
+za:
+  639-1: za
+  639-2: zha
+  language-name:
+    native: saɯ cueŋƅ
+    en: chuang
+    fr: zhuang
+zh:
+  639-1: zh
+  639-2: zho
+  language-name:
+    native: 中文, 汉语, 漢語
+    en: chinese
+    fr: chinois
+zu:
+  639-1: zu
+  639-2: zul
+  language-name:
+    native: isizulu
+    en: zulu
+    fr: zoulou
